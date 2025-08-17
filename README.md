@@ -105,10 +105,6 @@ Salary distribution among placed students
 
 🔹 Apply Deep Learning models for improved accuracy
 
-✨ Demo
-
-🎥 (Optional – you can add GIF/screenshot of Streamlit app if you deploy)
-
 🤝 Contributing
 
 Contributions are welcome! 🎉
