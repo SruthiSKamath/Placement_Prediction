@@ -1,5 +1,11 @@
-🎓 Placement Prediction 🚀
-<p align="center"> <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"> </p>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&repeat=true&lines=%F0%9F%8E%93+Placement+Prediction+%F0%9F%9A%80;%F0%9F%93%8A+Predict+Placements+with+Machine+Learning;%F0%9F%92%B0+Estimate+Salary+Packages;%F0%9F%9A%80+Smart+Career+Guidance"
+    alt="Typing SVG"
+  />
+</p>
+
+
 📌 Overview
 
 The Placement Prediction project is designed to help students and institutions analyze and predict campus placement outcomes using Machine Learning. By leveraging student academic records, work experience, and MBA specializations, the system predicts whether a candidate is likely to be placed and, if placed, estimates the salary package.
